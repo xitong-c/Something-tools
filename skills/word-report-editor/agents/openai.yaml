@@ -1,0 +1,4 @@
+interface:
+  display_name: "Word Report Editor"
+  short_description: "Generate and edit Word reports with python-docx workflows."
+  default_prompt: "Use $word-report-editor to create or revise a Word report from templates and source materials."
